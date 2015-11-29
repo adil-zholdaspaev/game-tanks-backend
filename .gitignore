@@ -1,0 +1,15 @@
+
+.idea
+.gradle
+*.iml
+.project
+.settings
+.classpath
+*.log
+
+# Package Files #
+*.jar
+
+# Folders
+build/*
+target/*
