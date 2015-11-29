@@ -7,5 +7,5 @@ import net.omsu.tanks.model.Tank;
  */
 public interface Strategy {
 
-    void action(Tank tank, Rarar rarar, Game game, RemoteControl remoteControl);
+    void action(Tank tank, Radar radar, Game game, RemoteControl remoteControl);
 }
